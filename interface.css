@@ -1,0 +1,98 @@
+/*
+	@name interface
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 444px; width: 444px; height: 958px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__interface {
+	top: 0px;
+	left: 0px;
+	width: 444px;
+	height: 958px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_12 {
+	top: 1198px;
+	left: 45px;
+	width: 131px;
+	height: 24px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(255,255,255,1);
+}
+
+
+#india {
+	top: 1195px;
+	left: 99px;
+	width: 44px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	color:#2742CE;
+}
+
+
+#health_care_for_the_futur_generation {
+	top: 531px;
+	left: -10px;
+	width: 477px;
+	height: 156px;
+	overflow: hidden;
+	font-family: Post No Bills Jaffna;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 91.680004119873px;
+	margin-top: -14.560001373291px;
+	height: 204px;
+	color:#3FCFFC;
+}
+
+#group_1 {
+	top: 153px;
+	left: 44px;
+	width: 342px;
+	height: 342px;
+}
+
+#ellipse_1 {
+	opacity:0.34000000357628;
+	top: 0px;
+	left: 0px;
+	width: 342px;
+	height: 342px;
+	-ms-border-radius: 171px / 171px;
+	-o-border-radius: 171px / 171px;
+	-moz-border-radius: 171px / 171px;
+	-webkit-border-radius: 171px / 171px;
+	border-radius: 171px / 171px;
+	background:rgba(63.64,207.46,252.88,0.34);
+}
+
+
+#_5241348_1 {
+	top: 35px;
+	left: 37px;
+	width: 271.88px;
+	height: 271.88px;
+}
+
+
+
+/* Add your custom CSS here */

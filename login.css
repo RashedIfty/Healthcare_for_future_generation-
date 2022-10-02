@@ -1,0 +1,445 @@
+/*
+	@name login
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 428px; width: 428px; height: 930px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__login {
+	top: 0px;
+	left: 0px;
+	width: 428px;
+	height: 930px;
+	background:#;
+}
+
+#login {
+	top: 0px;
+	left: 0px;
+	width: 428px;
+	height: 930px;
+}
+#group_3 {
+	top: 0px;
+	left: 0px;
+	width: 428px;
+	height: 930px;
+}
+#iphone_13_pro_max___9 {
+	top: 0px;
+	left: 0px;
+	width: 428px;
+	height: 930px;
+}
+
+#rectangle_12 {
+	top: 1198px;
+	left: 44px;
+	width: 131px;
+	height: 24px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(255,255,255,1);
+}
+
+
+#india {
+	top: 1195px;
+	left: 96px;
+	width: 44px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	color:#2742CE;
+}
+
+
+#rectangle_43 {
+	top: 710px;
+	left: 16px;
+	width: 396px;
+	height: 63px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(63.64,207.46,252.88,1);
+}
+
+
+#rectangle_49 {
+	top: 474px;
+	left: 16px;
+	width: 396px;
+	height: 63px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(243.88,243.88,243.88,1);
+}
+
+
+#rectangle_50 {
+	top: 561px;
+	left: 16px;
+	width: 396px;
+	height: 63px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(243.88,243.88,243.88,1);
+}
+
+
+#log_in {
+	top: 728px;
+	left: 184px;
+	width: 82px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_47 {
+	top: 862px;
+	left: -17px;
+	width: 472px;
+	height: 71px;
+	border: 0.5px solid #6a6a6a;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_48 {
+	top: 887px;
+	left: 194px;
+	width: 40px;
+	height: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(105.81,106.14,106.25,1);
+}
+
+#akar_icons_chevron_left {
+	top: 884px;
+	left: 75px;
+	width: 15px;
+	height: 15px;
+}
+#group {
+	top: 2.5px;
+	left: 4.38px;
+	width: 5px;
+	height: 10px;
+}
+
+#vector {
+	top: 0px;
+	left: 0px;
+	width: 5px;
+	height: 10px;
+}
+
+#fluent_mail_28_filled {
+	top: 490px;
+	left: 42px;
+	width: 30px;
+	height: 30px;
+}
+#group_ek1 {
+	top: 5.36px;
+	left: 3.21px;
+	width: 23.57px;
+	height: 19.29px;
+}
+
+#vector_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 23.57px;
+	height: 19.29px;
+}
+
+#bx_bxs_lock_alt {
+	top: 577px;
+	left: 42px;
+	width: 30px;
+	height: 30px;
+}
+
+#vector_ek2 {
+	top: 2.5px;
+	left: 5px;
+	width: 20px;
+	height: 25px;
+}
+
+
+#xyz_gmail_com {
+	top: 504px;
+	left: 90px;
+	width: 150px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#696A6A;
+}
+
+
+#haven_t_any_account__registration {
+	top: 797px;
+	left: 75px;
+	width: 299px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#696A6A;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing {
+	top: 348px;
+	left: 65px;
+	width: 305px;
+	height: 81px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: center;
+	line-height: 34.380001544952px;
+	margin-top: -5.4600005149841px;
+	height: 99px;
+	color:#696A6A;
+}
+
+
+#email {
+	top: 483px;
+	left: 90px;
+	width: 57px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#8F8F8F;
+}
+
+
+#password {
+	top: 572px;
+	left: 89px;
+	width: 87px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#8F8F8F;
+}
+
+
+#forget_password_ {
+	top: 641px;
+	left: 269px;
+	width: 165px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#696A6A;
+}
+
+#radix_icons_dot_filled {
+	top: 593px;
+	left: 83px;
+	width: 20px;
+	height: 20px;
+}
+#group_ek2 {
+	top: 6.83px;
+	left: 6.83px;
+	width: 6.33px;
+	height: 6.33px;
+}
+
+#vector_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 6.33px;
+	height: 6.33px;
+}
+
+#radix_icons_dot_filled_ek1 {
+	top: 593px;
+	left: 93px;
+	width: 20px;
+	height: 20px;
+}
+#group_ek3 {
+	top: 6.83px;
+	left: 6.83px;
+	width: 6.33px;
+	height: 6.33px;
+}
+
+#vector_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 6.33px;
+	height: 6.33px;
+}
+
+#radix_icons_dot_filled_ek2 {
+	top: 593px;
+	left: 103px;
+	width: 20px;
+	height: 20px;
+}
+#group_ek4 {
+	top: 6.83px;
+	left: 6.83px;
+	width: 6.33px;
+	height: 6.33px;
+}
+
+#vector_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 6.33px;
+	height: 6.33px;
+}
+
+#radix_icons_dot_filled_ek3 {
+	top: 593px;
+	left: 113px;
+	width: 20px;
+	height: 20px;
+}
+#group_ek5 {
+	top: 6.83px;
+	left: 6.83px;
+	width: 6.33px;
+	height: 6.33px;
+}
+
+#vector_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 6.33px;
+	height: 6.33px;
+}
+
+#radix_icons_dot_filled_ek4 {
+	top: 593px;
+	left: 123px;
+	width: 20px;
+	height: 20px;
+}
+#group_ek6 {
+	top: 6.83px;
+	left: 6.83px;
+	width: 6.33px;
+	height: 6.33px;
+}
+
+#vector_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 6.33px;
+	height: 6.33px;
+}
+
+#group_1 {
+	top: 108px;
+	left: 106px;
+	width: 211px;
+	height: 211px;
+}
+
+#ellipse_1 {
+	opacity:0.34000000357628;
+	top: 0px;
+	left: 0px;
+	width: 211px;
+	height: 211px;
+	-ms-border-radius: 105.5px / 105.5px;
+	-o-border-radius: 105.5px / 105.5px;
+	-moz-border-radius: 105.5px / 105.5px;
+	-webkit-border-radius: 105.5px / 105.5px;
+	border-radius: 105.5px / 105.5px;
+	background:rgba(63.64,207.46,252.88,0.34);
+}
+
+
+#_5241348_1 {
+	top: 21px;
+	left: 21px;
+	width: 167.74px;
+	height: 167.74px;
+}
+
+
+#login_ek1 {
+	top: 56px;
+	left: 54px;
+	width: 70px;
+	height: 52px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 38.200001716614px;
+	margin-top: -6.0666672388713px;
+	height: 72px;
+	color:#3FCFFC;
+}
+
+#akar_icons_arrow_left {
+	top: 63px;
+	left: 16px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector_ek8 {
+	top: 5px;
+	left: 4px;
+	width: 16px;
+	height: 14px;
+}
+
+
+
+/* Add your custom CSS here */
